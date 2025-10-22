@@ -1,3 +1,4 @@
+window.location.href = "https://username.github.io/kuis-tempat-bersejarah/index.html";
 const name = localStorage.getItem("username");
 document.querySelector("h2").innerText = "Selamat bermain, " + name + "!";
 const questions = [
